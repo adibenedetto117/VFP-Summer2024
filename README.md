@@ -14,7 +14,6 @@ This repository contains code and resources for the project "Application of Data
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Acknowledgments](#acknowledgments)
-- [References](#references)
 
 ## Introduction
 This project aims to enhance 3D image segmentation, a critical technique in fields such as medical imaging, materials science, and industrial quality control. We developed a modified 3D U-Net architecture to accurately segment complex 3D structures in volumetric data.
@@ -61,7 +60,4 @@ This study demonstrates the effectiveness of a 3D U-Net for segmenting borosilic
 ## Acknowledgments
 I express my sincere gratitude to the VFP program for their support and resources. Special thanks to Dr. Abuomar and Dr. Bicer for their invaluable guidance and support throughout this study.
 
-## References
-1. Shen, D., Wu, G., & Suk, H.-I. (2017). Annual Review of Biomedical Engineering, 19, 221.
-2. Litjens, G., et al. (2017). Medical Image Analysis, 42, 60.
-3. Fu, S.-Y., et al. (2008). Composites Part B: Engineering.
+For more details, please refer to the research paper.
